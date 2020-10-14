@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ApiProduct\Business\bin\Debug\Business.dll
+C:\Users\user\source\repos\ApiProduct\Business\bin\Debug\Business.pdb
+C:\Users\user\source\repos\ApiProduct\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ApiProduct\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ApiProduct\Business\obj\Debug\Business.dll
+C:\Users\user\source\repos\ApiProduct\Business\obj\Debug\Business.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct\Business\bin\Debug\Business.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct\Business\bin\Debug\Business.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct\Business\obj\Debug\Business.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct\Business\obj\Debug\Business.pdb
